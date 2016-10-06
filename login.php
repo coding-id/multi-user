@@ -27,7 +27,7 @@
 				<div class="panel box border-bottom-primary">
 					<div class="panel-header">
 						<center>
-							<h3 class="panel-title">Login Administrator</h3>
+							<h3 class="panel-title">Login</h3>
 						</center>
 					</div>
 					<div class="panel-body">
